@@ -14,4 +14,4 @@ function login(retry = true) {
     }
 }
 console.log("Injecting login to window.onload.")
-window.onload = login;
+window.addEventListener("load", login, true);

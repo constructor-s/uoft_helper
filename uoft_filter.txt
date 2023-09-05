@@ -1,9 +1,9 @@
 ! 2023-09-02 https://meded.utoronto.ca
-||meded.utoronto.ca/medicine/community/utoronto/css/print.css?release=58.4$stylesheet,domain=meded.utoronto.ca
-||meded.utoronto.ca/medicine/community/utoronto/css/stylesheet.css?release=58.4$stylesheet,domain=meded.utoronto.ca
-||meded.utoronto.ca/medicine/css/login/login.css?release=58.4$stylesheet,domain=meded.utoronto.ca
-||meded.utoronto.ca/medicine/css/login/units.css?release=58.4$stylesheet,domain=meded.utoronto.ca
-||meded.utoronto.ca/medicine/css/login/print.css?release=58.4$stylesheet,domain=meded.utoronto.ca
+||meded.utoronto.ca/medicine/community/utoronto/css/print.css?release=58.4$stylesheet
+||meded.utoronto.ca/medicine/community/utoronto/css/stylesheet.css?release=58.4$stylesheet
+||meded.utoronto.ca/medicine/css/login/login.css?release=58.4$stylesheet
+||meded.utoronto.ca/medicine/css/login/units.css?release=58.4$stylesheet
+||meded.utoronto.ca/medicine/css/login/print.css?release=58.4$stylesheet
 
 ! Use auto-login scriptlet
 idpz.utorauth.utoronto.ca##+js(uoft_login_helper.js)

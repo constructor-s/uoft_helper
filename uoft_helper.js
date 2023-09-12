@@ -9,7 +9,7 @@ function login(retry = true) {
         console.log("Not logging in because username or password is empty.");
         if (retry) {
             console.log("Retrying in 1 second.");
-            setTimeout(login, 1000, false);
+            setTimeout(() => document.getElementsByClassName("btn-lg")[0].click(), 1000);
         }
     }
 }

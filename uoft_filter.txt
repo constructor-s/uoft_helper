@@ -5,5 +5,12 @@
 ||meded.utoronto.ca/medicine/css/login/units.css?release=58.4$stylesheet
 ||meded.utoronto.ca/medicine/css/login/print.css?release=58.4$stylesheet
 
+! 2024-01-12 https://meded.utoronto.ca
+||meded.utoronto.ca/medicine/communities$image,domain=meded.utoronto.ca
+||meded.utoronto.ca/medicine/community/utoronto/images/icon_magnifyingglass.png$image,domain=meded.utoronto.ca
+||meded.utoronto.ca/medicine/community/utoronto/images/icon_arrows.svg$image,domain=meded.utoronto.ca
+||meded.utoronto.ca/medicine/api/photo.api.php/30413/official$image,domain=meded.utoronto.ca
+||meded.utoronto.ca/medicine/api/disclaimers.api.php?method=get-disclaimers&trigger_type=community&trigger_value=312$xhr,domain=meded.utoronto.ca
+
 ! Use auto-login scriptlet
 idpz.utorauth.utoronto.ca##+js(uoft_login_helper.js)
